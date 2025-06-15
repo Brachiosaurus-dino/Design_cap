@@ -60,8 +60,8 @@ const Home=() =>{
               <div className="">
                 <div className="w-full h-full  bg-stone-200  ">
                   <p className="text-center text-5xl justify-center p-10 "> Our Story</p>
-                  <p className="text-center text-1xl  font-light justify-center p-10 ">Ut ultricies imperdiet sodales. Aliquam fringilla aliquam ex sit amet elementum eleifend erat at justo fringilla imperdiet id ac magna ac magna.</p>
-                  <p className="text-center text-1xl  font-light justify-center p-10 ">Fusce ut velit laoreet, tempus arcu eu, molestie tortor. Nam vel justo cursus, faucibus lorem eget, egestas eros. Maecenas eleifend erat at justo fringilla imperdiet id ac magna eu, molestie tortor lorem eget egestas.</p>
+                  <p className="text-center text-1xl  font-light justify-center p-5 ">Ut ultricies imperdiet sodales. Aliquam fringilla aliquam ex sit amet elementum eleifend erat at justo fringilla imperdiet id ac magna ac magna.</p>
+                  <p className="text-center text-1xl  font-light justify-center p-5 ">Fusce ut velit laoreet, tempus arcu eu, molestie tortor. Nam vel justo cursus, faucibus lorem eget, egestas eros. Maecenas eleifend erat at justo fringilla imperdiet id ac magna eu, molestie tortor lorem eget egestas.</p>
                   <div className="text-center ">
                     <button href="#" className="bg-black transition duration-400 hover:scale-130 rounded-2xl h-15 w-60 text-white font-roboto font-bold">Learn More</button>
                   </div>
